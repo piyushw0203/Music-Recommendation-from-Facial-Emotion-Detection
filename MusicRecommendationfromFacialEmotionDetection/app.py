@@ -1,4 +1,5 @@
 import streamlit as st
+import sklearn
 import sklearn.neighbors
 import pandas as pd
 from sklearn.neighbors import NearestNeighbors
